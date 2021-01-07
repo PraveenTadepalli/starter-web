@@ -8,3 +8,4 @@ Sample website with plenty of files for demos
 
 ##Newly added 1
 ## adding copy right
+## Please fork the repo 
