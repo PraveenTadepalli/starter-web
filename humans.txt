@@ -4,11 +4,12 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-    Praveen   SSE       praveen.com  
+    Praveen   SSE       praveen.com 
+     
 # THANKS
 
     <name>
-
+       Thanks to all my students
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
