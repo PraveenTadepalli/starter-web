@@ -11,3 +11,4 @@ Sample website with plenty of files for demos
 ## Please fork the repo 
 ## adding al ine for rebasing example, more changes from branch2
 ##Quote and quote emergency fix
+##emergency fix after untrack stash
