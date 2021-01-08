@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 ## adding copy right
 ## Please fork the repo 
 ## adding al ine for rebasing example, more changes from branch2
+##Quote and quote emergency fix
